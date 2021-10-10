@@ -1,4 +1,4 @@
-[Software License](software-license)(3.png)
+![Software License](software-license)(3.png)
 
 Software license for this software:
 gnu.org/licenses/gpl.html
