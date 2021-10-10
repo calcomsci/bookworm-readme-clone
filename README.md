@@ -3,7 +3,7 @@
 Software license for this software:
 gnu.org/licenses/gpl.html
 
-![Welcome to Book Worm]
+![Welcome to Book Worm](bookworm.png)
 
 
 
