@@ -1,8 +1,9 @@
-[Software License](software-license)
+[Software License](software-license)(3.png)
 
 Software license for this software:
+gnu.org/licenses/gpl.html
 
-![Welcome to Book Worm](3.png)
+![Welcome to Book Worm]
 
 
 
@@ -10,7 +11,7 @@ Software license for this software:
 (bookworm.png)
 GNU License
 
-gnu.org/licenses/gpl.html
+
 
   
 [Description of this software](description)
