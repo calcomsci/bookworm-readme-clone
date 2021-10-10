@@ -1,11 +1,12 @@
 Software license for this software:
 gnu.org/licenses/gpl.html
+GNU License
 ![Software License](3.png)
 
 
 
 # Welcome to Book Worm
-GNU License
+
 ![Welcome to Book Worm](bookworm.png)
 
 
