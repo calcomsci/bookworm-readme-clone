@@ -2,7 +2,7 @@
 
 Software license for this software:
 
-![Welcome to Book Worm](assets/images/3.png)
+![Welcome to Book Worm](images/3.png)
 
 
 
