@@ -2,12 +2,12 @@
 
 Software license for this software:
 
-![Welcome to Book Worm](images/3.png)
+![Welcome to Book Worm](3.png)
 
 
 
 # Welcome to Book Worm
-(assets/bookworm.png)
+(bookworm.png)
 GNU License
 
 gnu.org/licenses/gpl.html
